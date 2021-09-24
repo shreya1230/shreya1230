@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shreya1230
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...python project
+- 🌱 I’m currently learning ...javascript
+- 💞️ I’m looking to collaborate on ...web devlopment project
 - 📫 How to reach me ...
 
 <!---
